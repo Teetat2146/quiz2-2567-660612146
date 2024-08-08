@@ -16,13 +16,13 @@ export default function Home() {
         <div className="vstack gap-3">
           <div className="d-flex align-items-center gap-3">
             <img
-              src="/profileImages/handsome.jpg"
+              src="/profileImages/Student.jpg"
               width="48"
               height="48"
               className="rounded-circle"
               style={{ objectFit: "cover" }}
             />
-            <span className="fw-semibold fs-5">Chayanin Suatap 650610560</span>
+            <span className="fw-semibold fs-5">Teetat Yodbun 660612146</span>
           </div>
 
           <span>Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207</span>
