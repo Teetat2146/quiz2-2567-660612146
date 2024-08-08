@@ -30,7 +30,6 @@ export default function Home() {
         ))}
 
         {/* Reply Example */}
-        <Reply/>
 
         {/* map-loop render Comment component here */}
       </div>
