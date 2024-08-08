@@ -10,10 +10,10 @@ interface ReplyProps {
 export type { ReplyProps };
 
 interface CommentProps {
-    userImagePath: string,
+    ImagePath: string,
     username: string,
-    commentText: string,
-    likenum: number,
+    commentTitle: string,
+    likes: number,
     replies: []
 }
 export type { CommentProps };

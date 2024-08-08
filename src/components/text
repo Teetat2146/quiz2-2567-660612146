@@ -1,0 +1,13 @@
+{comments.map((user) => (
+          <Comment ImagePath={user.userImagePath} 
+                   username={user.username} 
+                   commentTitle={user.commentText} 
+                   likes={user.likeNum} 
+                   replies={<Reply/>}/>
+        ))}
+
+        <PostOwnner
+        name="Teetat Yodbun"
+        studentId="660612146"
+        textPost="Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207"
+       />
